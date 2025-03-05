@@ -1,5 +1,5 @@
 ## Hello there👋
-📚 I'm a master's student specializing in Robotics
+📚 I'm a master's student specializing in Robotics at Ecole Centrale de Nantes
 
 🧑‍💻 I’m currently learning ROS2 and Machine learing
 ## 🌱Skills
