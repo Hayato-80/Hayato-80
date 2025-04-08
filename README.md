@@ -1,8 +1,8 @@
-## Hello there👋
-📚 I'm a master's student specializing in Robotics at Ecole Centrale de Nantes
+## Hello
+I'm a master's student specializing in Robotics at Centrale de Nantes
 
-🧑‍💻 I’m currently learning ROS2 and Machine learing
-## 🌱Skills
+I’m currently learning ROS2 and Machine Learning
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,ros,cpp,python,arduino,matlab,opencv)](https://skillicons.dev)
 
 ## Activities
