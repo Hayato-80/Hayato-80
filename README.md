@@ -1,5 +1,5 @@
 ## Hello
-I'm a master's student specializing in Robotics at Centrale de Nantes
+I'm a master's student specializing in Robotics at Centrale de Nantes and Keio University(Japan Europe Masters on Advanced Robotics double degree program)
 
 I’m currently learning ROS2 and Machine Learning
 ## Skills
