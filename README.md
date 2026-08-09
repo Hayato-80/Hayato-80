@@ -6,6 +6,7 @@ I'm a master's student specializing in Robotics at Centrale Nantes and Keio Univ
 
 ## Activities
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayato-80&theme=vue-dark)]
+[![Hayato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayato-80&theme=vue-dark&layout=compact)]
 
 <!--[![Hayato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayato-80&theme=vue-dark&layout=compact)]
 
